@@ -1,4 +1,4 @@
-### NYC Yellow Taxi Trips 2024 EDA
+## NYC Yellow Taxi Trips 2024 EDA
 ## Project Overview
 
 This project focuses on Exploratory Data Analysis of NYC Yellow Taxi trip data for the year 2024.

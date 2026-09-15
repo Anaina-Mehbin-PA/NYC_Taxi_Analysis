@@ -85,7 +85,7 @@ Histograms were used to study:
 Trip count distribution
 Average tip distribution
 
-##Relationship Analysis
+## Relationship Analysis
 
 Scatter plots were used to analyze relationships between:
 

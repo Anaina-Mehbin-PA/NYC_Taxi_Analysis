@@ -17,57 +17,97 @@ The dataset contains aggregated NYC Yellow Taxi trip data for 2024, including in
 ## Objectives
 
 Understand the structure and characteristics of the dataset
+
 Analyze taxi trips based on different hours and pickup locations
+
 Analyze passenger count and payment methods
+
 Study trip distance, fare amount, and trip duration
+
 Create useful features such as average fare and average tip
+
 Identify variations and potential outliers
+
 Study relationships between numerical variables
+
 Visualize important findings using Python
-Data Cleaning
+
+## Data Cleaning
 
 The dataset was checked for:
 
 Missing values
+
 Duplicate records
+
 Data types
+
 Unique values
+
 Basic statistical information
-Feature Extraction
+
+## Feature Extraction
 
 Two additional features were created:
 
 Average Fare: Fare amount generated per taxi trip
+
 Average Tip: Tip amount received per taxi trip
-Exploratory Data Analysis
+
+## Exploratory Data Analysis
 
 The following analyses were performed:
 
 Basic Dataset Exploration
+
 Dataset shape
+
 Column names
+
 Data types
+
 Statistical summary
+
 Missing value check
+
 Duplicate value check
+
 Unique value analysis
+
 Passenger and Payment Analysis
+
 Distribution of passenger count
+
 Distribution of payment types
+
 Taxi trips by payment type
+
 Average fare by payment type
+
 Trip distance by payment type
+
 Trip Analysis
+
 Total taxi trips by pickup borough
+
 Total taxi trips by hour
+
 Top date based on total number of trips
+
 Top records based on trip distance
+
 Filtering trips based on trip distance and fare amount
+
 Fare and Tip Analysis
+
 Average fare calculation
+
 Average tip calculation
+
 Average fare by pickup borough
+
 Distribution of average tip
+
 Fare amount analysis
 
 ## Outlier Analysis
@@ -75,7 +115,9 @@ Fare amount analysis
 Boxplots were used to identify variations and potential outliers in:
 
 Trip distance
+
 Fare amount
+
 Trip distance across payment types
 
 ## Distribution Analysis
@@ -83,6 +125,7 @@ Trip distance across payment types
 Histograms were used to study:
 
 Trip count distribution
+
 Average tip distribution
 
 ## Relationship Analysis
@@ -90,25 +133,37 @@ Average tip distribution
 Scatter plots were used to analyze relationships between:
 
 Trip distance and fare amount
+
 Trip distance and trip duration
 
 ## Tools and Technologies
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 ## Key Insights
 
 Taxi trip activity varies across different hours of the day.
+
 Pickup activity is not evenly distributed across the NYC boroughs.
+
 Payment methods show different usage patterns.
+
 Certain passenger group sizes are more common than others.
+
 Trip distance and fare amount show a relationship.
+
 Trip distance and trip duration also show a relationship.
+
 Boxplot analysis shows variation and potential outliers in trip distance and fare amounts.
+
 Average fare and average tip provide additional information about the amount generated per trip.
 
 ## Conclusion
